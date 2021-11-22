@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6Nqxxiz5JhO_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Fender Bender</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6CI92XARpkD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/5cinLqK8nZi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/5ldY4il7bFn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/5mqqq8bsskq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6idfMpTNPXm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/5n5pzz4Wd7f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6Vd8GcqkiS5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6SY7weaOQNB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6ZB5MRkv9tK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/5v4oCS00v78" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/62LTRFDK9Ms" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6Nqxxiz5JhO_course_id/6CYrEDRlVjQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+	</activities>
+</tincan>

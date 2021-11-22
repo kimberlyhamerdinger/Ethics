@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6AJNZxw82M1_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Super Duper Fast</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6AJNZxw82M1_course_id/5dt5twcdMg3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6AJNZxw82M1_course_id/62Of1w2Crby" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6AJNZxw82M1_course_id/5hrH2SasA3I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6AJNZxw82M1_course_id/6AYm0X327AZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6AJNZxw82M1_course_id/69Po2772fgq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+	</activities>
+</tincan>
